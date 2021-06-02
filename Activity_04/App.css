@@ -1,0 +1,58 @@
+.Coffee-form{
+  width: 100%;;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+}
+
+.coffee{
+  position: static;
+  background-color: chocolate;
+  color: aliceblue;
+}
+
+.center{
+  margin: 0;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.tcenter{
+  margin: 0;
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.fcenter{
+  margin: 0;
+  position: absolute;
+  top: 63%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.scenter{
+  margin: 0;
+  position: relative;
+  top: 112%;
+  left: 62%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.gcenter{
+  margin: 0;
+  position:relative;
+  top:35px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
